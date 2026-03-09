@@ -17,3 +17,9 @@
     </td>
   </tr>
 </table>
+
+```yaml
+focus@arch ~ % cat skills.txt
+Languages: Python, C, Bash
+Security:  Wireshark, Burp Suite, Nmap
+Tools:     Git, Docker, Vim
