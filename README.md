@@ -23,3 +23,22 @@ Sec_Tools:   Burp Suite, Nmap, Wireshark
 Environment: Linux (Kali/Arch)
 Concepts:    Network Security, Cryptography<div align="center">
 ```
+
+
+<table width="100%">
+  <tr>
+    <td bgcolor="#1a1b26">
+      <span style="color: #f7768e">●</span> 
+      <span style="color: #e0af68">●</span> 
+      <span style="color: #9ece6a">●</span>
+      <br>
+      <pre>
+       -`                    <b>focus@arch</b>
+      .o+`                   ----------
+     `ooo/                   OS: Arch Linux
+    `+oooo:                  Kernel: 6.18.13
+   `+oooooo:                 WM: Hyprland
+      </pre>
+    </td>
+  </tr>
+</table>
