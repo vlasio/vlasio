@@ -25,4 +25,4 @@ Concepts:    Network Security, Cryptography<div align="center">
 ```
 
 
-![My System Fetch](./terminal.svg)
+![My System Fetch](https://raw.githubusercontent.com/vlasio/terminal.svg/main/terminal.svg)
