@@ -2,9 +2,12 @@
 
 **Cyber Security Student @ Aston University | Bug Hunter & Tinkerer**
 
+
 I spend most of my time figuring out how systems break—and how to secure them before someone else finds out. I'm currently in my second year, focusing heavily on vulnerability research, OS internals, and access control.
 
+
 > 🎯 **Looking for a 2026/27 Placement Year:** I'm actively seeking a role where I can bring my recon, research, and scripting skills to a real-world security team.
+
 
 ### ⚡ What's On My Radar
 - **Bug Bounty:** Actively hunting for vulnerabilities on the **Epic Games** program (HackerOne).
