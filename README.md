@@ -1,4 +1,4 @@
-# Hi there, I'm Vlas Yermachenko 👋
+## Hi there, I'm Vlas Yermachenko 👋
 
 I am a 2nd year Cyber Security student at Aston University. I focus on Vulnerability research, Access Control, and Operating Systems. 
 
@@ -14,11 +14,6 @@ I am a 2nd year Cyber Security student at Aston University. I focus on Vulnerabi
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=wechat&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
-
-### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-</div>
 
 ### 🤝 Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yermachenko-vlas)
