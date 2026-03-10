@@ -1,12 +1,16 @@
-## Hi there, I'm Vlas Yermachenko 👋
+## Hey, I'm Vlas
 
-I am a 2nd year Cyber Security student at Aston University. I focus on Vulnerability research, Access Control, and Operating Systems. 
+**Cyber Security Student @ Aston University | Bug Hunter & Tinkerer**
 
-### 👨‍💻 About Me
-- 🔭 Currently working on **HackerOne - Epic Games**
-- 🌱 Currently learning **Lisp and Local AI**
-- 💬 Ask me about **Bug Bounty Hunting**
-- 📫 Reach out: **[yermachenkovlas0@gmail.com](mailto:yermachenkovlas0@gmail.com)**
+I spend most of my time figuring out how systems break—and how to secure them before someone else finds out. I'm currently in my second year, focusing heavily on vulnerability research, OS internals, and access control.
+
+> 🎯 **Looking for a 2026/27 Placement Year:** I'm actively seeking a role where I can bring my recon, research, and scripting skills to a real-world security team.
+
+### ⚡ What's On My Radar
+- **Bug Bounty:** Actively hunting for vulnerabilities on the **Epic Games** program (HackerOne).
+- **The Lab:** Writing security tooling in **Lisp** (because why not?) and wiring up **Local AI** models to automate my recon workflows.
+- **Let's talk about:** Unconventional recon techniques, Linux hardening, and web app vulnerabilities (OWASP Top 10).
+- **Say Hello:** [yermachenkovlas0@gmail.com](mailto:yermachenkovlas0@gmail.com)
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,10 +24,8 @@ I am a 2nd year Cyber Security student at Aston University. I focus on Vulnerabi
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2244CC?style=for-the-badge&logo=metasploit&logoColor=white)
 
-### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vlasio&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-</div>
+### 📊 GitHub Activity
+![Vlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlasio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ### 🤝 Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yermachenko-vlas)
