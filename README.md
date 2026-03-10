@@ -1,28 +1,24 @@
-<table border="0">
-  <tr>
-    <td width="400" valign="top">
-      <img src="https://github.com/user-attachments/assets/57107de4-ff27-48a5-abd9-9f996cc975ea" width="400" alt="ascii hands">
-    </td>
-    <td valign="top">
-<pre>
-<b>user@aston-sec</b>
---------------
-<b>Name:</b>    Vlas Yermachenko
-<b>Course:</b>  2nd Year Cyber Security
-<b>Uni:</b>     Aston University
-</pre>
-    </td>
-  </tr>
-</table>
+# Hi there, I'm Vlas Yermachenko 👋
 
-```yaml
+I am a 2nd year Cyber Security student at Aston University. I focus on Vulnerability research, Access Control, and Operating Systems. 
 
-user@aston-sec ~ % cat skills.txt
-Languages:   Python (Automation/Scripting), Bash, C
-Sec_Tools:   Burp Suite, Nmap, Wireshark
-Environment: Linux (Kali/Arch)
-Concepts:    Network Security, Cryptography<div align="center">
-```
+### 👨‍💻 About Me
+- 🔭 Currently working on **HackerOne - Epic Games**
+- 🌱 Currently learning **Lisp and Local AI**
+- 💬 Ask me about **Bug Bounty Hunting**
+- 📫 Reach out: **[yermachenkovlas0@gmail.com](mailto:yermachenkovlas0@gmail.com)**
 
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=wechat&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
 
-![My System Fetch](https://raw.githubusercontent.com/vlasio/terminal.svg/main/terminal.svg?v=1)
+### 📊 GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
+</div>
+
+### 🤝 Connect with Me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yermachenko-vlas)
