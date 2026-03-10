@@ -24,8 +24,5 @@ I spend most of my time figuring out how systems break—and how to secure them 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2244CC?style=for-the-badge&logo=metasploit&logoColor=white)
 
-### 📊 GitHub Activity
-![Vlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlasio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ### 🤝 Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yermachenko-vlas)
